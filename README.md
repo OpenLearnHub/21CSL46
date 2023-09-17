@@ -1,4 +1,6 @@
 # 21CSL46
+![Python Badge](https://img.shields.io/badge/Python-21CSL46-blue)
+
 The Python Programming Laboratory course (21CSL46) introduces students to Python fundamentals, data types, flow control, functions, and object-oriented programming. It covers regular expressions, file handling, and working with Excel, PDF, Word, and JSON files. CIE and SEE assessments ensure comprehensive learning and practical application.
 1. Introduce the Python fundamentals, data types, operators, flow control and exception handling in Python
 (a) Write a python program to find the best of two test average marks out of three test’s marks accepted from the user.
@@ -38,3 +40,4 @@ Similarity between two said strings: Similarity between two said strings:
 (a) Write a python program to combine select pages from many PDFs
 (b) Write a python program to fetch current weather data from the JSON file
 Assessment
+
