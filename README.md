@@ -19,6 +19,7 @@ The Python Programming Laboratory course (21CSL46) introduces students to Python
    - Implement functions to calculate Fibonacci numbers and convert between number systems:
    - 2. Demonstrating creation of functions, passing parameters and return values
 (a) Defined as a function F as Fn = Fn-1 + Fn-2. Write a Python program which accepts a value for N (where N > 0) as input and pass this value to the function. Display suitable error message if the condition for input value is not followed.
+
 (b) Develop a python program to convert binary to decimal, octal to hexadecimal using functions.
 
 3. **String Manipulation:**
